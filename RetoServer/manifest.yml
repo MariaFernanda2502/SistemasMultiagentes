@@ -1,0 +1,4 @@
+---
+applications:
+ - name: reto-sistemas-multiagentes
+   random-route: true
